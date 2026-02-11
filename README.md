@@ -2,7 +2,7 @@
 
 A web developer student at Yrgo.
 
-- 🔭 I’m currently working at: a Node.js project
+- 🔭 I’m currently working at: "I'm a teapot", a Node.js quiz app
 - 🌱 I’m currently learning: Node.js, C#, Laravel
 - 💬 Ask me about: Women's football
 - 📫 How to reach me: m.tedeman@hotmail.com
