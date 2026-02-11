@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 I'm Maria
+
+A web developer student at Yrgo.
 
 - 🔭 I’m currently working at: a Node.js project
 - 🌱 I’m currently learning: Node.js, C#, Laravel
