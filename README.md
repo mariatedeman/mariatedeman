@@ -9,3 +9,5 @@ A web developer student at Yrgo.
 - ⚡ Fun fact: My best party trick at the christmas party is to sing Jingle Bells in Japaneese 🎤
 
 Visit my [portfolio](https://mtedeman.se/) to explore my work and development, from early in my education until today!
+
+And feel free to [connect with me](https://www.linkedin.com/in/mariatedeman/) on LinkedIn 🫱🏼‍🫲🏽
