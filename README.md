@@ -7,3 +7,5 @@ A web developer student at Yrgo.
 - 💬 Ask me about: Women's football ⚽️
 - 📫 How to reach me: m.tedeman@hotmail.com 📨
 - ⚡ Fun fact: My best party trick at the christmas party is to sing Jingle Bells in Japaneese 🎤
+
+Visit my [portfolio](https://mtedeman.se/) to explore my work and development, from early in my education until today!
